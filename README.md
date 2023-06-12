@@ -2,21 +2,20 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucemila Bonifácio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucemilaBonifacio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Júnior Web Developer focused on start programming 
+- 🔥 Júnior web developer focused on programming in the best way
 
 - 💻 I am currently studying Software Engineering
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Ruby on Rails, Node.JS, Gestão de projetos, Gestão ágil**
 
 
+
+
 ## GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucemilaBonifacio&show_icons=true&theme=vision-friendly-dark"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemilaBonifacio&layout=compact&theme=vision-friendly-dark"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucemilaBonifacio&layout=compact&theme=vision-friendly-dark"/>
 </p>
-
-
 <br><br>
 
 ## Tech Stack
@@ -32,9 +31,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
 <br><br>
-
 
 ## Contact
 
