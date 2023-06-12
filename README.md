@@ -14,7 +14,7 @@
 ## GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucemilaBonifacio&layout=compact&theme=vision-friendly-dark"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucemilaBonifacio&layout=compact&theme=vision-friendly-dark"/>
 </p>
 <br><br>
 
