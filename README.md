@@ -8,7 +8,14 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Ruby on Rails, Node.JS, Gestão de projetos, Gestão ágil**
 
-<!--
+
+## GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucemilaBonifacio&show_icons=true&theme=vision-friendly-dark"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemilaBonifacio&layout=compact&theme=vision-friendly-dark"/>
+</p>
+
 
 <br><br>
 
@@ -28,15 +35,6 @@
 
 <br><br>
 
-## GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucemilaBonifacio&show_icons=true&theme=vision-friendly-dark" alt="LucemilaBonifacio stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucemilaBonifacio&layout=compact&theme=vision-friendly-dark" alt="LucemilaBonifacio most languages"/>
-</p>
--->
-
-<br><br>
 
 ## Contact
 
@@ -49,6 +47,6 @@
 </a>
 </p>
 
-<!--
+
 
 
